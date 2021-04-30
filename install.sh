@@ -1,0 +1,1 @@
+deno install -f --unstable --allow-net --allow-env --allow-read main.ts 
